@@ -1006,6 +1006,7 @@ class Day2 {
         "2-8 j: jjjjjjjjjqjjj"};
 
         System.out.println(validPasswords(input));
+        System.out.println(validPasswordsAgain(input));
     }
 
     // Part 1
