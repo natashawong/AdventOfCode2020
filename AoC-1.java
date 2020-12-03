@@ -1,4 +1,6 @@
-Class day1 {
+import java.utils.Arrays;
+
+Class Day1 {
     public static void main (string[] args) {
         int[] input = {
             1535,
